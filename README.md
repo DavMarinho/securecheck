@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Live Demo](https://img.shields.io/badge/Demo-Online-success?logo=streamlit)
 
 ---
 
@@ -109,7 +110,7 @@ securecheck/
 
 ## 🌐 Demo
 
-> 🔗 [Acesse a aplicação ao vivo](#) *(adicione o link do Streamlit Cloud após o deploy)*
+> > 🔗 **[Acesse a aplicação ao vivo](https://securecheck-dm.streamlit.app/)**
 
 ---
 
